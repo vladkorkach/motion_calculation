@@ -1,0 +1,12 @@
+.idea/
+venv/
+**__pycache__**
+control_sample_indexes/*
+*.mp4
+*.mkv
+*.npy
+*.png
+*.jpg
+*.csv
+*.json
+*.ftpconfig
